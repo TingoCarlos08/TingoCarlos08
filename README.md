@@ -1,16 +1,58 @@
-### Hi there 👋
+# Mi lugar seguro
+## Sobre Mí
+Estudiante de Ciencias Computacionales con experiencia en programación y aprendizaje autónomo en busca de desafíos para crecer de manera profesional.
 
-<!--
-**TingoCarlos08/TingoCarlos08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Educación
+- **Escuela Superior Politécnica del Litoral**: Ingeniería en Computación (Estudiante activo)
+- **FEPOL**: Vicepresidente de la comisión de Arte y Diseño
+- **Academia Naval Almirante Illingworth**: Graduado
+- **AITEC**: Desarrollo de aplicaciones Android
+- **Bachillerato Técnico en Sistemas**
 
-Here are some ideas to get you started:
+## Experiencia Laboral
+### Administrador de Bases de Datos
+- **Corporación INVENSYS S.A.** (Mar 2024 - May 2024)
+  - Desarrollo de dashboards de un sistema contable con la herramienta Power BI, implementando la minería de datos y Soluciones Integrales BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Administrador de Sistemas
+- **TONICORP** (Feb 2019)
+  - Brindar soporte técnico a los usuarios de TI, registrar dispositivos en inventario y manejar información.
+
+### Proyecto registro de procesos
+- **TONICORP** (Jun 2023)
+  - Creación de base de datos que permite la lectura y escritura de archivos, registrando procesos de máquinas para futuros análisis.
+
+## Habilidades
+### Generales
+- Git
+- Microsoft Office
+- Figma
+- LucidChart
+- Power BI
+
+### Personales
+- Autodidacta
+- Liderazgo
+- Trabajo en equipo
+- Pensamiento creativo
+
+### Tools
+- Python
+- Java
+- SQL
+- MySQL
+- C
+- Linux
+- HTML
+- CSS
+- JavaScript
+- DAX
+
+## Idiomas
+- **Español:** Nativo
+- **Inglés:** Avanzado
+
+## Contacto
+- **Email:** ctingo@espol.edu.ec
+- **GitHub:** [TingoCarlos08](https://github.com/TingoCarlos08)
+
