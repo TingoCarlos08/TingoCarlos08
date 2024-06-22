@@ -4,10 +4,10 @@ Estudiante de Ciencias Computacionales con experiencia en programación y aprend
 
 ## Educación
 - **Escuela Superior Politécnica del Litoral**: Ingeniería en Computación (Estudiante activo)
-- **FEPOL**: Vicepresidente de la comisión de Arte y Diseño
+- FEPOL**: Vicepresidente de la comisión de Arte y Diseño
 - **Academia Naval Almirante Illingworth**: Graduado
-- **AITEC**: Desarrollo de aplicaciones Android
-- **Bachillerato Técnico en Sistemas**
+- AITEC**: Desarrollo de aplicaciones Android
+- Bachillerato Técnico en Sistemas**
 
 ## Experiencia Laboral
 ### Administrador de Bases de Datos
