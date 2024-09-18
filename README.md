@@ -1,4 +1,4 @@
-# Mi lugar seguro
+# Mi CV
 ## Sobre Mí
 Estudiante de Ciencias Computacionales con experiencia en programación y aprendizaje autónomo en busca de desafíos para crecer de manera profesional.
 
